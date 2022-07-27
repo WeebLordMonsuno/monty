@@ -1,1 +1,8 @@
-akjnaldfa,f
+read digits
+, >,
+
+plus
+<[>+<-]
+
+print result
+++++++[>--------<-]>.
